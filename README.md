@@ -3,7 +3,7 @@
 
 # Code of Conduct
 
-Die zauberware möchte ein inklusives Umfeld für alle schaffen, unabhängig von Rasse, Ethnie, Religion, Hautfarbe, nationaler Herkunft, Alter, Behinderung, sexueller Orientierung, geschlechtsspezifischer Identität, elterlichem Status, Familienstand und politischer Zugehörigkeit sowie geschlechtsspezifischem Ausdruck, psychischer Erkrankung, sozioökonomischen Status oder Hintergrund. Wir bei zauberware sind durch diese Werte vereint und halten unsere einzigartigen Unterschiede hoch.
+Die [zauberware](https://www.zauberware.com) möchte ein inklusives Umfeld für alle schaffen, unabhängig von Rasse, Ethnie, Religion, Hautfarbe, nationaler Herkunft, Alter, Behinderung, sexueller Orientierung, geschlechtsspezifischer Identität, elterlichem Status, Familienstand und politischer Zugehörigkeit sowie geschlechtsspezifischem Ausdruck, psychischer Erkrankung, sozioökonomischen Status oder Hintergrund. Wir bei zauberware sind durch diese Werte vereint und halten unsere einzigartigen Unterschiede hoch.
 
 [![Code of Conduct bei zauberware](https://www.zauberware.com/assets/graphics/_large/diversity.jpg)](https://www.zauberware.com/artikel/2019/code-of-conduct/)
 
@@ -97,4 +97,4 @@ Illustration created by pikisuperstar - www.freepik.com
  - [Was ist das Hochstapler Syndrom?](https://de.wikipedia.org/wiki/Hochstapler-Syndrom) - wikipedia.org
 
 
-[!(https://avatars3.githubusercontent.com/u/1753330?s=200&v=4)](https://www.zauberware.com)
+[![zauberware](https://avatars3.githubusercontent.com/u/1753330?s=200&v=4)](https://www.zauberware.com)
